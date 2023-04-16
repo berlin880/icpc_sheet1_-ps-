@@ -1,2 +1,2 @@
-# icpc_sheet1_-ps-
-# icpc_sheet1_-ps-
+all solved 
+https://codeforces.com/group/MWSDmqGsZm/contest/219158
